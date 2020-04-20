@@ -1,0 +1,3 @@
+RUext is .m file, can be opened using matlab.
+It contains program to extract RUROI from Hand radiograph image.
+Kindly note we have used SDC morphology toolbax in this program. 
